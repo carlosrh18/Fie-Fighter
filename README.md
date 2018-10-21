@@ -1,4 +1,4 @@
 # Fie-Fighter
 Fighter game using pygame.
-![Titlecard](imagetitle.png)
+![Titlecard](image_title.png)
 
